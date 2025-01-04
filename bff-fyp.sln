@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bff-fyp", "bff-fyp\bff-fyp.csproj", "{E3E01F10-04B7-498C-AA34-7CDBE011AB6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3E01F10-04B7-498C-AA34-7CDBE011AB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E01F10-04B7-498C-AA34-7CDBE011AB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E01F10-04B7-498C-AA34-7CDBE011AB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E01F10-04B7-498C-AA34-7CDBE011AB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88FB8965-FD5A-47D4-A629-87102FD97FEB}
+	EndGlobalSection
+EndGlobal
